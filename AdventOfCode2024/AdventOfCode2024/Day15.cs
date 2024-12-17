@@ -306,6 +306,6 @@ public sealed class Day15 : BaseDay
             }
         }
             
-        throw new NotImplementedException();
+        throw new Exception();
     }
 }
